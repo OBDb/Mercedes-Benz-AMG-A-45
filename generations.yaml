@@ -1,0 +1,24 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-AMG"
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class"
+
+generations:
+  - name: "First Generation (W176)"
+    start_year: 2015
+    end_year: 2018
+    description: "First generation Mercedes-AMG A45 based on the W176 platform. Powered by the M133 2.0L turbocharged inline-four engine producing 381 hp and 450 Nm of torque, making it the most powerful production four-cylinder engine at the time. Paired with AMG SPEEDSHIFT 7-speed dual-clutch transmission and AMG Performance 4MATIC all-wheel drive."
+    platform_code: "W176"
+    engine: "2.0L M133 Turbo I4"
+    power: "381 hp"
+    torque: "450 Nm"
+    transmission: "7-speed AMG SPEEDSHIFT DCT"
+
+  - name: "Second Generation (W177)"
+    start_year: 2019
+    end_year: null
+    description: "Second generation Mercedes-AMG A45 based on the W177 platform. Features the new M139 2.0L turbocharged inline-four engine with two variants: A 45 producing 387 hp and A 45 S producing 421 hp and 500 Nm. The M139 with twin-scroll turbo was the world's most powerful four-cylinder engine in serial production at launch. Paired with 8-speed AMG SPEEDSHIFT dual-clutch transmission and fully variable AMG Performance 4MATIC+ all-wheel drive."
+    platform_code: "W177"
+    engine: "2.0L M139 Turbo I4"
+    power: "387-421 hp"
+    torque: "480-500 Nm"
+    transmission: "8-speed AMG SPEEDSHIFT DCT"
